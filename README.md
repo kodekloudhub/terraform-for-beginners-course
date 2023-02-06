@@ -31,7 +31,7 @@ Note that in many of these labs, pressing `Check` button may take 10-15 seconds 
     * [04 - Lab: DynamoDB](./docs/05-terraform-with-aws/04-dynamodb.md)
 * 06 - Remote State
     * [01 - Lab: Remote State](./docs/06-remote-state/01-remote-state.md)
-    * [02 - Lab: Terraform State Commands]()
+    * [02 - Lab: Terraform State Commands](./docs/06-remote-state/02-terraform-state-commands.md)
 * 07 - Terraform Provisioners
     * [01 - Lab: AWS EC2 and Provisioners](./docs/07-terraform-provisioners/01-aws-ec2-and-provisioners.md)
 * 08 - Terraform Import, Tainting Resources and Debugging
