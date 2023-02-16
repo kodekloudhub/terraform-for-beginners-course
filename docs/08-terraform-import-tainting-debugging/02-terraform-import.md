@@ -78,6 +78,8 @@ Help for the [VSCode editor](https://github.com/kodekloudhub/community-faq/blob/
     ```bash
     cd /root/terraform-projects/project-jade
     terraform import aws_instance.jade-mw i-39773b28caf25392f
+    ```
+
     </details>
 
 1.  <details>
