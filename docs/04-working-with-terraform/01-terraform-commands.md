@@ -33,14 +33,6 @@ Help for the [VSCode editor](https://github.com/kodekloudhub/community-faq/blob/
         terraform validate
         ```
 
-        There is another error. We are trying to assign a value to a read-only attribute on the `tls_cert_request` resource ([documentation](https://registry.terraform.io/providers/hashicorp/tls/latest/docs/resources/cert_request#read-only)). Remember that read-only attributes are exactly that - read only. Thus we must _remove_ this attribute from the configuration.
-
-    1.  Validate again
-
-        ```
-        terraform validate
-        ```
-
         Success!
 
     </details>
